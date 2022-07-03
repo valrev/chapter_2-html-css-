@@ -269,8 +269,8 @@ card-img, .mountains {
 }
 .first-river h2{
     margin-bottom: 20px;
-    font-weight: bold;
     font-family: Nothing You Could Do, Arial, sans-serif;
+    font-weight: bold;
     margin-right: -490px;
 }
 .second-img {
@@ -290,7 +290,6 @@ card-img, .mountains {
 .second-river h2{
     margin-bottom: 20px;
     font-weight: bold;
-    font-family: Nothing You Could Do, Arial, sans-serif;
     margin-right: 500px;
 }
 .third-img {
@@ -312,7 +311,6 @@ card-img, .mountains {
 .third-river h2{
     margin-bottom: 20px;
     font-weight: bold;
-    font-family: Nothing You Could Do, Arial, sans-serif;
     margin-right: -490px;
 }
 .third-river {
